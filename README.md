@@ -1,6 +1,7 @@
 # Nyll_OS
 A web OS 
 Project Status: Ongoing
+<img width="248" height="120" alt="image" src="https://github.com/user-attachments/assets/f679a4ca-0a1e-4d4e-83ff-cdcd61b92fd5" />
 <br>
 Nyll_OS is a WebOS created fully by me. You can write notes, use a calculator, browse, and more!
 <br>
