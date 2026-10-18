@@ -27,3 +27,6 @@ Current progress:
 - [ ] Calculator
 - [ ] Different themes
 - [ ] Small mini game
+
+Current Design: 
+<img width="1920" height="1080" alt="Nyll_OS" src="https://github.com/user-attachments/assets/00d20748-581e-4491-9c7e-289ef1b08401" />
